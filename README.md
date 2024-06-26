@@ -22,11 +22,12 @@ Height: The height of the individual in centimeters.
 
 Weight: The weight of the individual in kilograms.
 
-Record of Interactions with our mentor:
-Meeting 1 - 14/06/2024
-
 KnownAllergies: Whether the individual has any known allergies (yes/no).
 
 HistoryOfCancerInFamily: Whether there is a history of cancer in the individual's family (yes/no).
 
 NumberOfMajorSurgeries: The number of major surgeries the individual has undergone.
+
+Record of Interactions with our mentor:
+
+Meeting 1 - 14/06/2024
