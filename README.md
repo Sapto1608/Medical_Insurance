@@ -28,6 +28,7 @@ HistoryOfCancerInFamily: Whether there is a history of cancer in the individual'
 
 NumberOfMajorSurgeries: The number of major surgeries the individual has undergone.
 
+
 Record of Interactions with our mentor:
 
 Meeting 1 - 14/06/2024
