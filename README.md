@@ -33,4 +33,6 @@ Record of Interactions with our mentor:
 
 Meeting 1 - 14/06/2024
 
-Meeting 2 - 26/07/2024
+Meeting 2 - 26/06/2024
+
+Meeting 3 - 19/07/2024
